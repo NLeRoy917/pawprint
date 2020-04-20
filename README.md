@@ -1,4 +1,4 @@
-# pawprint <img src="./files/media/paw.png" width=20/>
+# pawprint <img src="./files/media/paw.png" width=30/>
 
 This is my template repository for initializing new web applications and web development projects using my preferred web stack:
 * React Front-End

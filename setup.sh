@@ -19,7 +19,7 @@ command -v npx >/dev/null 2>&1 || { echo >&2 "pawprint requires npx but it's not
 command -v python3 >/dev/null 2>&1 || { echo >&2 "pawprint requires python 3 (python3) but it's not installed. Aborting."; exit 1; }
 
 # remove .git directory
-y | rm -rf .git/
+rm -rf .git/
 
 # install guincorn dependency and create requirements.txt
 python3 -m pip install gunicorn

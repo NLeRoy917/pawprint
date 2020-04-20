@@ -1,4 +1,6 @@
-# pawprint
+# pawprint 
+<img src="./files/media/paw.png" width=100/>
+
 This is my template repository for initializing new web applications and web development projects using my preferred web stack:
 * React Front-End
 * Flask/Python Back-End
